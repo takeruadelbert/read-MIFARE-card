@@ -1,0 +1,13 @@
+E:\Kantor\C#\MiFareCard\MiFareCard\bin\Debug\netcoreapp3.0\MiFareCard.exe
+E:\Kantor\C#\MiFareCard\MiFareCard\bin\Debug\netcoreapp3.0\MiFareCard.deps.json
+E:\Kantor\C#\MiFareCard\MiFareCard\bin\Debug\netcoreapp3.0\MiFareCard.runtimeconfig.json
+E:\Kantor\C#\MiFareCard\MiFareCard\bin\Debug\netcoreapp3.0\MiFareCard.runtimeconfig.dev.json
+E:\Kantor\C#\MiFareCard\MiFareCard\bin\Debug\netcoreapp3.0\MiFareCard.dll
+E:\Kantor\C#\MiFareCard\MiFareCard\bin\Debug\netcoreapp3.0\MiFareCard.pdb
+E:\Kantor\C#\MiFareCard\MiFareCard\obj\Debug\netcoreapp3.0\MiFareCard.AssemblyInfoInputs.cache
+E:\Kantor\C#\MiFareCard\MiFareCard\obj\Debug\netcoreapp3.0\MiFareCard.AssemblyInfo.cs
+E:\Kantor\C#\MiFareCard\MiFareCard\obj\Debug\netcoreapp3.0\MiFareCard.dll
+E:\Kantor\C#\MiFareCard\MiFareCard\obj\Debug\netcoreapp3.0\MiFareCard.pdb
+E:\Kantor\C#\MiFareCard\MiFareCard\bin\Debug\netcoreapp3.0\pcsc-sharp.dll
+E:\Kantor\C#\MiFareCard\MiFareCard\obj\Debug\netcoreapp3.0\MiFareCard.csprojAssemblyReference.cache
+E:\Kantor\C#\MiFareCard\MiFareCard\obj\Debug\netcoreapp3.0\MiFareCard.csproj.CopyComplete
